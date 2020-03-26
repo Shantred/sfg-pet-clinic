@@ -41,4 +41,10 @@
         </pluginManagement>
     </build>
 
+    <scm>
+        <developerConnection>
+            scm:git:https://github.com/Shantred/sfg-pet-clinic.git
+        </developerConnection>
+    </scm>
+
 </project>
